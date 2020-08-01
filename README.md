@@ -13,13 +13,12 @@
    
 # 个人技术栈
 ## 前端
-  vue；用于构建用户界面的MVVM框架
-  vue-router：为单页面应用提供的路由系统，使用了 Lazy Loading Routes 技术来实现异步加载优化性能
-  vuex：Vue 集中状态管理，在多个组件共享某些状态时非常便捷
-  vue-lazyload：实现图片懒加载，节省用户流量，优化页面加载速度
-  better-scroll：解决移动端各种滚动场景需求的插件，使移动端滑动体验更加流畅
-  SCSS：css 预编译处理器
-  ES6：ECMAScript 新一代语法，模块化、解构赋值、Promise、Class 等方法非常好用 
+  *1vue；用于构建用户界面的MVVM框架
+  *2vue-router：为单页面应用提供的路由系统，使用了 Lazy Loading Routes 技术来实现异步加载优化性能
+  *3vuex：Vue 集中状态管理，在多个组件共享某些状态时非常便捷
+  *4vue-lazyload：实现图片懒加载，节省用户流量，优化页面加载速度
+  *5SCSS：css 预编译处理器
+  *6ES6：ECMAScript 新一代语法，模块化、解构赋值、Promise、Class 等方法非常好用 
 ##后端
   Node.js：利用express搭建本地服务器
   vue-axios：进行前后端交互
