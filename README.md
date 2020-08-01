@@ -13,17 +13,18 @@
    
 # 个人技术栈
 ## 前端
-  * 1vue；用于构建用户界面的MVVM框架
-  * 2vue-router：为单页面应用提供的路由系统，使用了 Lazy Loading Routes 技术来实现异步加载优化性能
-  * 3vuex：Vue 集中状态管理，在多个组件共享某些状态时非常便捷
-  * 4vue-lazyload：实现图片懒加载，节省用户流量，优化页面加载速度
-  * 5SCSS：css 预编译处理器
-  * 6ES6：ECMAScript 新一代语法，模块化、解构赋值、Promise、Class 等方法非常好用 
-##后端
-  * 1Node.js：利用express搭建本地服务器
-  * 2vue-axios：进行前后端交互
-  * 3mongodb：用于储存数据
-  * 4中间件：用于前后端跨域
+  * vue；用于构建用户界面的MVVM框架
+  * vue-router：为单页面应用提供的路由系统，使用了 Lazy Loading Routes 技术来实现异步加载优化性能
+  * vuex：Vue 集中状态管理，在多个组件共享某些状态时非常便捷
+  * vue-lazyload：实现图片懒加载，节省用户流量，优化页面加载速度
+  * SCSS：css 预编译处理器
+  * ES6：ECMAScript 新一代语法，模块化、解构赋值、Promise、Class 等方法非常好用 
+  
+## 后端
+  * Node.js：利用express搭建本地服务器
+  * vue-axios：进行前后端交互
+  * mongodb：用于储存数据
+  * 中间件：用于前后端跨域
 # 最后
   此项目完成度还有在提升，不过我也写过其他项目，[个人博客](https://smartss.top/)部署到github上比较慢，请耐心等待
 # 感谢
